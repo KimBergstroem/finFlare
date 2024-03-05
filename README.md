@@ -1,5 +1,5 @@
 
-<h1 align= "center"><strong>💲💲💲 Broker Buddy |  New Year, January Hackathon 2024, 💲💲💲</strong></h1>
+<h1 align= "center"><strong>💲💲 Broker Buddy |  New Year, January Hackathon 2024, 💲💲</strong></h1>
 
 [Click for live view](https://finflare-9057c20c8176.herokuapp.com/)
 
